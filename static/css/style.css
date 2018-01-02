@@ -15,5 +15,6 @@ p {
 
 .progress {
   margin-top: 15px;
-  padding-top: 15px;
+  margin-bottom: 30px;
+  padding-top: 15px; 
 }
